@@ -13,3 +13,28 @@ body{
     text-align: center;
 }
 
+img{
+      
+    margin: 20px;
+    width: 300px;
+    justify-content: center;
+    border: double 2px;
+}
+ul{   
+    list-style: none;
+    padding: 10px;
+    font-size: 5;
+    
+}
+
+li{
+    display: inline-block;
+    width: 20%;
+    position: relative;
+    font-size: 20px;
+}
+
+div
+
+
+
